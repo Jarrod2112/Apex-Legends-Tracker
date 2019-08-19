@@ -1,0 +1,4 @@
+# npm will try to build dependencies from these hints "ignore"
+
+node_modules/
+client
